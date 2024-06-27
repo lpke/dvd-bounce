@@ -9,8 +9,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'NextJS Base',
-  description: 'NextJS base setup',
+  title: 'DVD Bounce',
+  description: 'Will it hit the corner?',
 };
 
 export default function RootLayout({

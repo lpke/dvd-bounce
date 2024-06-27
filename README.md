@@ -1,3 +1,3 @@
 # dvd-bounce
 
-Will it ever perfectly hit the corner??
+Will it hit the corner?
